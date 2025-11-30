@@ -1,13 +1,13 @@
-🧠 **Brain Tumor Classification using Deep Learning**
-AI-powered diagnosis support for brain MRI scans — combining custom CNNs, transfer learning, and interactive deployment.
+🧠 **Brain Tumor Classification using Deep Learning**  
+AI-powered diagnosis support for brain MRI scans — combining custom CNNs, transfer learning, and interactive deployment. 
 
 
-🚀 **Project Overview**
+🚀 **Project Overview** 
 Brain tumor detection is a critical step in medical diagnosis. This project leverages deep learning to classify MRI images into tumor categories with high accuracy.
 We explore both custom CNN architectures and transfer learning models (ResNet50, MobileNet, InceptionV3, EfficientNetB0) to identify the most reliable solution.
-Finally, the best-performing model is deployed via a Streamlit web application, enabling users to upload MRI scans and receive predictions with confidence scores.
+Finally, the best-performing model is deployed via a Streamlit web application, enabling users to upload MRI scans and receive predictions with confidence scores. 
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Stack 
 
 | Component          | Tools / Frameworks                                                                 |
 |--------------------|------------------------------------------------------------------------------------|
@@ -32,16 +32,16 @@ Finally, the best-performing model is deployed via a Streamlit web application, 
 | 🌐 Deployment            | Build Streamlit app: upload MRI images, predict tumor type, show confidence scores        |
 
 
-## 📊 Results & Insights
-- Transfer learning models outperform custom CNN in accuracy and generalization.
-- EfficientNetB0 strikes a balance between speed and accuracy, making it ideal for deployment.
-- Augmentation significantly reduces overfitting and improves robustness.
+## 📊 Results & Insights 
+- Transfer learning models outperform custom CNN in accuracy and generalization. 
+- EfficientNetB0 strikes a balance between speed and accuracy, making it ideal for deployment. 
+- Augmentation significantly reduces overfitting and improves robustness. 
 
-## 🎯 Key Features of the Streamlit App
-- Upload MRI scans easily
-- Instant prediction of tumor type
-- Confidence scores for transparency
-- Clean, user-friendly interface
+## 🎯 Key Features of the Streamlit App 
+- Upload MRI scans easily 
+- Instant prediction of tumor type 
+- Confidence scores for transparency 
+- Clean, user-friendly interface 
 
 
 
